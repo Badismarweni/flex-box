@@ -1,0 +1,71 @@
+body{
+    
+}
+button{
+    background-color: #00b39b;
+    border: 100px;
+}
+h2{
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+    font-size: 80px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.badi{
+    color: #00b39b;
+}
+.button{
+    display: flex;
+    flex-direction: row-reverse;
+    position: fixed;
+    top: 30px;
+    right: 0;
+    font-size: 120%;
+}
+.title2{
+    background-color: #00b39b;
+    margin-top: -50px;
+    display:flex;
+    text-align: center;
+    flex-direction: column;
+    font-size: 40px;
+}
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  .hm {
+    width: 400px;
+    height: 400px;
+    margin: 0 10px;
+    font-size: 150%;
+    content: normal;
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+  }
+  
+  .box {
+    width: 400px;
+    height: 400px;
+    margin: 0 10px;
+    text-decoration-color: white;
+  }
+  .boxx{
+    font-size: 200%;
+  }
+  .boox{
+    font-size: 200%;
+  }
+  .bbox{
+    font-size: 200%;
+  }
+  
